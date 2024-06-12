@@ -1,0 +1,6 @@
+@CHIRILĂ_MIHAI_DARIUS_M531_HostAddress = http://localhost:5204
+
+GET {{CHIRILĂ_MIHAI_DARIUS_M531_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
